@@ -5,11 +5,8 @@ A simple and lightweight ToDo app built with Flutter and powered by Hive — a b
 
 🚀 Features
 ✅ Add new tasks
-
 ❌ Delete tasks
-
 💾 Offline persistent storage using Hive
-
 ⚡ Fast, lightweight, and easy to use
 
 📱 Responsive UI for Android & iOS
@@ -23,15 +20,3 @@ Hive Flutter - Extensions for using Hive with Flutter
 
 Path Provider - To locate the app’s file system directories
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
